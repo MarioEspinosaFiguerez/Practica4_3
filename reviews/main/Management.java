@@ -78,13 +78,4 @@ public class Management {
          for (int i = 0; i < businesses.length; i++)
             System.out.println(businesses[i].toString() );
       }
-
-   public void sortBusinessByRating(int type)
-   {
-      for (int i = 0; i < businesses.length; i++)
-         for (int j = 0; j < ; j++)
-         {
-            
-         }
-   }
 }
